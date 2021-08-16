@@ -1,0 +1,4 @@
+Swordfish,5,Sardine,Mackerel,2,3,7
+Throwing Starfish,10,Mackerel,Sardine,4,7,11
+Stringray,15,Cod,Shrimp,7,11,15
+Orca,25,Shrimp,Cod,10,15,19

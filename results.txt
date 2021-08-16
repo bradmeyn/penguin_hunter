@@ -1,0 +1,5 @@
+
+Game Mode: Arcade, Player Name: Brad, Turns Played: 5
+Game Mode: Story, Player Name: Charlie, Turns Set: 5, Fish Goal: 25, Actual Fish: 24, result: Fish target within +/-10%: SUCCESS
+Game Mode: Arcade, Player Name: Brad, Turns Played: 1
+Game Mode: Story, Player Name: Charlie, Turns Set: 5, Fish Goal: 25, Actual Fish: -72, result: Fish target outside +/-10%: FAIL
