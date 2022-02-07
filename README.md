@@ -1,8 +1,9 @@
-Major project for Java Programming unit in which I scored a High Distinction mark.
+# Java Penguin Hunter
+## Major project for Java Programming unit in which I scored a High Distinction mark.
 
-Start game with java Hunter command
+Start game with **java Hunter command**
 
-**Original Specification:**
+## Original Specification:
 
 Java Penguin Hunter
 Word/time limit: N/A
